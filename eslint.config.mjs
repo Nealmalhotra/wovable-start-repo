@@ -15,7 +15,8 @@ const eslintConfig = [
   {
     ignores: [
       "src/Backgrounds/**",
-      "src/Animations/**"
+      "src/Animations/**",
+      "src/TextAnimations/**",
     ],
   },
 ];
